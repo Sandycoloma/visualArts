@@ -2,6 +2,7 @@
 *{
 	text-align: center;
 	font-family: 'lato', sans-serif;
+	background-color: cyan;
 }
 nav{ 
 	position: relative;
@@ -184,7 +185,8 @@ footer >textarea {
 
 
 body > footer {
-	background: #F8F9FD;
+	/*background: #F8F9FD;*/
+	background-color: tomato;
 	height: 200px;
 	padding: 0 20%;
 	position: relative;
